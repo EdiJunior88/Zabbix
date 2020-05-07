@@ -27,8 +27,10 @@ Página relacionada ao Zabbix contendo links, apostilas, pdf, tutoriais ou qualq
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Zabbix_%20Resolvendo%20o%20busy%20unreachable%20poller%20process%20e%20o%20icmp%20pinger%20processes%20more%20than%2075%20busy%20_%20BLOGMARU.pdf">Resolvendo o busy unreachable poller process e o icmp pinger processes more than 75 busy.pdf</a></li>
 <i><a href="http://rauhmaru.blogspot.com/2014/07/zabbix-resolvendo-o-busy-unreachable.html">Site</a></i>
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### Jekyll Themes
 
