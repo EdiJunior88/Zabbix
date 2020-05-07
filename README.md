@@ -13,6 +13,15 @@ Página relacionada ao Zabbix contendo links, apostilas, pdf, tutoriais ou qualq
   <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/zbx_MARIADB_templates.xml">Template MariaDB</a></li>
 </ul>
 
+<h1>Tutoriais</h1>
+
+<li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Zabbix%20%2B%20UserParameter%20%2B%20Express%C3%B5es%20Regulares%20%3D%20Monitoramento%20otimizado.pdf">Zabbix + UserParameter + Expressões Regulares = Monitoramento otimizado.pdf</a></li>
+
+<i><a href="https://medium.com/@amaurybsouza/powerful-monitoring-1d92b9d9d57a">Site</a></i>
+
+
+
+
 
 
 ### Jekyll Themes
