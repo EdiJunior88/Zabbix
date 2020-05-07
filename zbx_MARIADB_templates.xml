@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zabbix_export>
+    <version>4.4</version>
+    <date>2020-05-07T19:19:15Z</date>
+    <groups>
+        <group>
+            <name>Templates/Databases</name>
+        </group>
+    </groups>
+    <templates>
+        <template>
+            <template>Monitoramento MARIADB</template>
+            <name>Monitoramento MARIADB</name>
+            <description>Monitorando MariaDB (processos, uptime, versão, queries, tasks e serviço)</description>
+            <groups>
+                <group>
+                    <name>Templates/Databases</name>
+                </group>
+            </groups>
+            <items>
+                <item>
+                    <name>Disponibilidade MariaDB</name>
+                    <key>ping</key>
+                    <trends>0</trends>
+                    <value_type>LOG</value_type>
+                </item>
+                <item>
+                    <name>Número de Processos do MariaDB</name>
+                    <key>process</key>
+                </item>
+                <item>
+                    <name>Serviço do MariaDB</name>
+                    <key>service</key>
+                    <trends>0</trends>
+                    <value_type>TEXT</value_type>
+                </item>
+                <item>
+                    <name>Status do MariaDB</name>
+                    <key>status</key>
+                    <trends>0</trends>
+                    <value_type>TEXT</value_type>
+                </item>
+                <item>
+                    <name>Tasks do MariaDB</name>
+                    <key>tasks</key>
+                    <trends>0</trends>
+                    <value_type>TEXT</value_type>
+                </item>
+                <item>
+                    <name>Uptime do MariaDB</name>
+                    <key>uptime</key>
+                    <delay>2m</delay>
+                    <trends>0</trends>
+                    <value_type>TEXT</value_type>
+                </item>
+                <item>
+                    <name>Versão do MariaDB</name>
+                    <key>version</key>
+                    <delay>2m</delay>
+                    <trends>0</trends>
+                    <value_type>TEXT</value_type>
+                </item>
+            </items>
+        </template>
+    </templates>
+</zabbix_export>
