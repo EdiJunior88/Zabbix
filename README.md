@@ -2,7 +2,11 @@
 
 Página relacionada ao Zabbix contendo links, apostilas, pdf, tutoriais ou qualquer outro material relacionado ao zabbix
 
-<h2>Templates</h2>
+<h1>Templates</h1>
+
+<ul>
+  <li></li>
+</ul>
 
 
 
