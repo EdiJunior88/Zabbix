@@ -5,7 +5,12 @@ Página relacionada ao Zabbix contendo links, apostilas, pdf, tutoriais ou qualq
 <h1>Templates Modificados</h1>
 
 <ul>
-  <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/zbx_APC_UPS_templates.xml">Template APC UPS (Nobreak)</li>
+  <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/zbx_APC_UPS_templates.xml">Template APC UPS (Nobreak)</a></li>
+  <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/zbx_DB_MySQL_templates.xml">Template MySQL</a></li>
+  <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/zbx_HP_A5120_templates.xml">Template Switch HP A5120</a></li>
+  <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/zbx_HP_SNMP_Autodiscovery_templates.xml">Template HP Auto Discovery Itens</a></li>
+  <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/zbx_Huawei_Switch_S5700_templates.xml">Template Switch HP S5700</a></li>
+  <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/zbx_MARIADB_templates.xml">Template MariaDB</a></li>
 </ul>
 
 
