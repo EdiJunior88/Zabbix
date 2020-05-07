@@ -16,8 +16,13 @@ Página relacionada ao Zabbix contendo links, apostilas, pdf, tutoriais ou qualq
 <h1>Tutoriais</h1>
 
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Zabbix%20%2B%20UserParameter%20%2B%20Express%C3%B5es%20Regulares%20%3D%20Monitoramento%20otimizado.pdf">Zabbix + UserParameter + Expressões Regulares = Monitoramento otimizado.pdf</a></li>
-
 <i><a href="https://medium.com/@amaurybsouza/powerful-monitoring-1d92b9d9d57a">Site</a></i>
+
+<li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Monitorando%20Banco%20de%20Dados%20do%20Zabbix%20-%20JLCP.pdf">Monitorando Banco de Dados do Zabbix - JLCP.pdf</a></li>
+<i><a href="https://www.jlcp.com.br/monitorando-banco-de-dados-do-zabbix/">Site</a></i>
+
+<li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Hernandes%20Martins_%20O%20servidor%20Zabbix%20n%C3%A3o%20est%C3%A1%20rodando_%20O%20que%20Fazer_.pdf">Hernandes Martins_ O servidor Zabbix não está rodando_ O que Fazer_.pdf	</a></li>
+<i><a href="https://hernandesmartins.blogspot.com/2016/12/o-servidor-zabbix-nao-esta-rodando-o.html">Site</a></i>
 
 
 
