@@ -5,7 +5,7 @@ Página relacionada ao Zabbix contendo links, apostilas, pdf, tutoriais ou qualq
 <h1>Templates Modificados</h1>
 
 <ul>
-  <li></li>
+  <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/zbx_APC_UPS_templates.xml">Template APC UPS (Nobreak)</li>
 </ul>
 
 
