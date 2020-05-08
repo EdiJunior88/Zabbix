@@ -16,30 +16,40 @@ Página relacionada ao Zabbix com links, apostilas, pdf, tutoriais ou qualquer o
 <h1>Tutoriais</h1>
 
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Zabbix%20%2B%20UserParameter%20%2B%20Express%C3%B5es%20Regulares%20%3D%20Monitoramento%20otimizado.pdf">Zabbix + UserParameter + Expressões Regulares = Monitoramento otimizado.pdf</a></li>
-  (<i><a href="https://medium.com/@amaurybsouza/powerful-monitoring-1d92b9d9d57a">Site</a></i>)
+
+(<i><a href="https://medium.com/@amaurybsouza/powerful-monitoring-1d92b9d9d57a">Site</a></i>)
 
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Monitorando%20Banco%20de%20Dados%20do%20Zabbix%20-%20JLCP.pdf">Monitorando Banco de Dados do Zabbix - JLCP.pdf</a></li>
-  (<i><a href="https://www.jlcp.com.br/monitorando-banco-de-dados-do-zabbix/">Site</a></i>)
+
+(<i><a href="https://www.jlcp.com.br/monitorando-banco-de-dados-do-zabbix/">Site</a></i>)
 
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Hernandes%20Martins_%20O%20servidor%20Zabbix%20n%C3%A3o%20est%C3%A1%20rodando_%20O%20que%20Fazer_.pdf">O servidor Zabbix não está rodando - O que Fazer.pdf</a></li>
-  (<i><a href="https://hernandesmartins.blogspot.com/2016/12/o-servidor-zabbix-nao-esta-rodando-o.html">Site</a></i>)
+
+(<i><a href="https://hernandesmartins.blogspot.com/2016/12/o-servidor-zabbix-nao-esta-rodando-o.html">Site</a></i>)
 
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Zabbix_%20Resolvendo%20o%20busy%20unreachable%20poller%20process%20e%20o%20icmp%20pinger%20processes%20more%20than%2075%20busy%20_%20BLOGMARU.pdf">Resolvendo o busy unreachable poller process e o icmp pinger processes more than 75 busy.pdf</a></li>
-  (<i><a href="http://rauhmaru.blogspot.com/2014/07/zabbix-resolvendo-o-busy-unreachable.html">Site</a></i>)
+
+(<i><a href="http://rauhmaru.blogspot.com/2014/07/zabbix-resolvendo-o-busy-unreachable.html">Site</a></i>)
 
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Blog%20do%20D%C3%A9o_%20Passo-a-Passo%20Identificar%20Par%C3%A2metro%20do%20Equipamento%20e%20Monitorar%20via%20Zabbix.pdf">Passo-a-Passo Identificar Parâmetro do Equipamento e Monitorar via Zabbix.pdf</a></li>
-  (<i><a href="http://andredeo.blogspot.com/2008/06/passo-passo-identificar-parmetro-do.html">Site</a></i>)
+
+(<i><a href="http://andredeo.blogspot.com/2008/06/passo-passo-identificar-parmetro-do.html">Site</a></i>)
 
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Corre%C3%A7%C3%A3o%20de%20algumas%20mensagens%20de%20alertas%20no%20ZABBIX%20%E2%80%93%20ATEIA.pdf">Correção de algumas mensagens de alertas no ZABBIX – ATEIA.pdf</a></li>
-  (<i><a href="https://www.ateia.net/blog/2018/06/01/correcao-de-algumas-mensagens-de-alertas-no-zabbix/">Site</a></i>)
+
+(<i><a href="https://www.ateia.net/blog/2018/06/01/correcao-de-algumas-mensagens-de-alertas-no-zabbix/">Site</a></i>)
 
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Backupninja%20-%20HerzbubeWiki.pdf">TUTORIAL Backupninja - HerzbubeWiki.pdf</a></li>
-  (<i><a href="https://wiki.herzbube.ch/index.php/Backupninja">Site</a></i>)
+
+(<i><a href="https://wiki.herzbube.ch/index.php/Backupninja">Site</a></i>)
 
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Monitoramento_Redes_Zabbix.pdf</a>Tutorial de Instalação do Zabbix</li>
-  (<i><a href="https://educapes.capes.gov.br/bitstream/capes/206308/2/Monitoramento_Redes_Zabbix.pdf">Site</a></i>)
-  
+
+(<i><a href="https://wiki.herzbube.ch/index.php/Backupninja">Site</a></i>)
+
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/SNMP-Monitoringv1.07.pdf</a>Guia SNMP FORTINET</li>
+
+
 
 <br>
 <br>
