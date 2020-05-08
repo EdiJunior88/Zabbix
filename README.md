@@ -27,6 +27,12 @@ Página relacionada ao Zabbix contendo links, apostilas, pdf, tutoriais ou qualq
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Zabbix_%20Resolvendo%20o%20busy%20unreachable%20poller%20process%20e%20o%20icmp%20pinger%20processes%20more%20than%2075%20busy%20_%20BLOGMARU.pdf">Resolvendo o busy unreachable poller process e o icmp pinger processes more than 75 busy.pdf</a></li>
 <i><a href="http://rauhmaru.blogspot.com/2014/07/zabbix-resolvendo-o-busy-unreachable.html">Site</a></i>
 
+<li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Blog%20do%20D%C3%A9o_%20Passo-a-Passo%20Identificar%20Par%C3%A2metro%20do%20Equipamento%20e%20Monitorar%20via%20Zabbix.pdf">Passo-a-Passo Identificar Parâmetro do Equipamento e Monitorar via Zabbix.pdf</a></li>
+<i><a href="http://andredeo.blogspot.com/2008/06/passo-passo-identificar-parmetro-do.html">Site</a></i>
+
+<li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Corre%C3%A7%C3%A3o%20de%20algumas%20mensagens%20de%20alertas%20no%20ZABBIX%20%E2%80%93%20ATEIA.pdf">Correção de algumas mensagens de alertas no ZABBIX – ATEIA.pdf	f</a></li>
+<i><a href="https://www.ateia.net/blog/2018/06/01/correcao-de-algumas-mensagens-de-alertas-no-zabbix/">Site</a></i>
+
 <br>
 <br>
 <br>
