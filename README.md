@@ -32,7 +32,7 @@ Página relacionada ao Zabbix com links, apostilas, pdf, tutoriais ou qualquer o
 
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Monitoramento_Redes_Zabbix.pdf>Tutorial de Instalação do Zabbix</a></li>
 
-<li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/SNMP-Monitoringv1.07.pdf>Guia SNMP FORTINET</a></li>
+<!--<li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/SNMP-Monitoringv1.07.pdf>Guia SNMP FORTINET</a></li>-->
 
 </ul>
 
