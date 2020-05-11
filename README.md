@@ -34,6 +34,11 @@ Página relacionada ao Zabbix com links, apostilas, pdf, tutoriais ou qualquer o
 
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Monitoramento_Redes_Zabbix.pdf">Instalação do Zabbix</a></li>
 
+<li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/APC-Powernet.pdf">PowerNet Management Information Base (MIB)</a></li>
+
+<li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Realizando%20upgrade%20do%20Zabbix%202.4%20para%203.0%20via%20reposit%C3%B3rio%20no%20Ubuntu_.pdf">PRealizando upgrade do Zabbix 2.4 para 3.0 via repositório no Ubuntu.</a></li>
+
+
 </ul>
 
 
