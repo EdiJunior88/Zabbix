@@ -48,6 +48,13 @@ Página relacionada ao Zabbix com links, apostilas, pdf, tutoriais ou qualquer o
 
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Add%20MIB%20Files%20to%20Ubuntu.pdf">Add MIB Files to Ubuntu</a></li>
 
+<li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Minicurso%20Utilizando%20o%20Zabbix%20para%20monitoramento%20de%20Rede%20e%20Servidores.pdf">Minicurso Utilizando o Zabbix para monitoramento de RedeServidores</a></li>
+
+<li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Add%20MIB%20Files%20to%20Ubuntu.pdf">Add MIB Files to Ubuntu</a></li>
+
+<li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Apostila%20Zabbix.pdf">Apostila Zabbix</a></li>
+
+
 </ul>
 
 <h1>Vídeos</h1>
