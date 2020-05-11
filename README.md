@@ -59,7 +59,16 @@ Página relacionada ao Zabbix com links, apostilas, pdf, tutoriais ou qualquer o
 
 <li><a href="https://youtu.be/eUh3jQ3n9Wk">Grafana - Instalação e Integração com Zabbix</a></li>
 
-  
+<li><a href="https://youtu.be/XJ22JRuWMhU">Zabbix SNMP Tutorial Portugues</a></li>
+
+<li><a href="https://youtu.be/3-2p_MOnVfY">Zabbix - Monitorar dispositivos SNMP</a></li>
+
+<li><a href="https://youtu.be/_yaDl4u6GDM">Zabbix - Monitorando sem zabbix agent</a></li>
+
+<li><a href="https://youtu.be/VgkSQjL4XN8">Enviando Alerta do Zabbix para grupo no Telegram | Jorge Pretel</a></li>
+
+<li><a href="https://youtu.be/BPu_0hqHgqA">Zabbix : Monitor Windows Server 2012</a></li>
+
 </ul>
 
 <br>
