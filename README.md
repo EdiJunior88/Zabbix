@@ -50,6 +50,17 @@ Página relacionada ao Zabbix com links, apostilas, pdf, tutoriais ou qualquer o
 
 </ul>
 
+<h1>Vídeos</h1>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=yYkyKpwk3uY">Grafana - Instalação e Integração com Zabbix | Robert Silva</a></li>
+  
+<li><a href="https://youtu.be/QhnNczV-3Ds">Grafana Zabbix - Exemplo simples de automatização - Disponível somente até 18/10/2019</a></li>
+
+<li><a href="https://youtu.be/eUh3jQ3n9Wk">Grafana - Instalação e Integração com Zabbix</a></li>
+
+  
+</ul>
 
 <br>
 <br>
