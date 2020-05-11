@@ -44,7 +44,9 @@ Página relacionada ao Zabbix com links, apostilas, pdf, tutoriais ou qualquer o
 
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/How%20to%20automate%20database%20backups%20with%20backupninja.pdf">How to automate database backups with backupninja</a></li>
 
-<li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Solu%C3%A7%C3%A3o%20Erro%20-%20Cannot%20connect%20to%20xxxxx%20Timeout.pdf">Solução Erro - Cannot connect to xxxxx Timeout.pdf</a></li>
+<li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Solu%C3%A7%C3%A3o%20Erro%20-%20Cannot%20connect%20to%20xxxxx%20Timeout.pdf">Solução Erro - Cannot connect to xxxxx Timeout</a></li>
+
+<li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Add%20MIB%20Files%20to%20Ubuntu.pdf">Add MIB Files to Ubuntu</a></li>
 
 </ul>
 
