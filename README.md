@@ -56,6 +56,8 @@ Página relacionada ao Zabbix com links, apostilas, pdf, tutoriais ou qualquer o
 
 <li><a href="https://github.com/EdiJunior88/Zabbix/blob/master/Monitoramento%20do%20web%20server%20Apache%20com%20UserParameter%20no%20Zabbix.pdf">Monitoramento do web server Apache com UserParameter no Zabbix</a></li>
 
+<li><a href=https://github.com/EdiJunior88/Zabbix/blob/master/Zabbix%20maps%20max%20label%20size%20-%20ZABBIX%20Forums.pdf">Zabbix maps max label size</a></li>
+
 </ul>
 
 <h1>Vídeos</h1>
